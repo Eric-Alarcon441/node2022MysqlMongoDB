@@ -1,0 +1,4 @@
+5MNGDN7tmPHJ9niV
+
+mongodb+srv://ericalarcon:5MNGDN7tmPHJ9niV@cluster0.6mpk6.mongodb.net/dbapi?retryWrites=true&w=majority
+mongodb+srv://ericalarcon:5MNGDN7tmPHJ9niV@cluster0.6mpk6.mongodb.net/dbapi?retryWrites=true&w=majority
